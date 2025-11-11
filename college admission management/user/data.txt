@@ -1,0 +1,3 @@
+(course, name, email, birth, gender, mobile, fathername, mothername, nationality, cast, c_address, p_address, 
+s_university, s_year, s_percentage, s_stream, hs_university, hs_year, hs_percentage, hs_stream, ug_university, ug_year, ug_percentage, 
+ug_stream, pg_university, pg_year, pg_percentage, pg_stream,signature, tc, s_marksheet, hs_marksheet, ug_marksheet, pg_marksheet, photo)
