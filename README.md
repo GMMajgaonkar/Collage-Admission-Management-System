@@ -43,5 +43,35 @@ This project aims to streamline the application process, manage courses & studen
 
 ---
 
-## Project Structure
+
+*(Modify this structure to reflect your actual folders/files.)*
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- PHP 7.x or higher  
+- MySQL or MariaDB  
+- Webserver (Apache or Nginx)  
+- Composer (if any dependencies)  
+- Git  
+- Local setup like XAMPP/WAMP (for Windows) or LAMP (for Linux)  
+
+### Installation
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/GMMajgaonkar/Collage-Admission-Management-System.git
+cd Collage-Admission-Management-System
+Create a database (e.g., college_admission_db)
+
+Import the SQL file from /db/schema.sql (or whichever file contains your tables)
+
+Update database credentials in includes/config.php (or equivalent)
+
+Configure your webserver to point to the project folder (e.g., htdocs/myproject in XAMPP).
+Open your browser and navigate to:
+http://localhost/Collage-Admission-Management-System/
 
